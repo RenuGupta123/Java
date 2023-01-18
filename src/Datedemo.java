@@ -14,6 +14,14 @@ public class Datedemo {
         SimpleDateFormat sd= new SimpleDateFormat( "dd/MM/yyyy");
         String str = sd.format(date);
         System.out.print(str);
+        System.out.print(str);
+        System.out.print(str);
+
+        //String to Date
+
+        //String to Date
+
+        //String to Date
 
         //String to Date
 
