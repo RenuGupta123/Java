@@ -8,7 +8,7 @@ public class StringDemo {
         {
             System.out.println(str.substring(i)+ str.substring(0,i));
 
-            String str1 = "RENU";
+            String str1 = "RENU123";
 
         }
     }
